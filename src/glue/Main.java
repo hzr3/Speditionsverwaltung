@@ -26,9 +26,9 @@ import view.IO;
 import model.Model;
 
 
-public class Starter 
+public class Main
 {
-	public Starter()
+	public Main()
 	{
 		Model myModel = new Model();
 		Controller myController = new Controller(myModel);	
@@ -38,7 +38,7 @@ public class Starter
 	
 	public static void main(String[] args) 
 	{
-		new Starter();
+		new Main();
 	}
 	
 }
