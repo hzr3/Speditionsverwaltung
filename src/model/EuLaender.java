@@ -1,0 +1,33 @@
+package model;
+
+public enum EuLaender 
+{
+	Belgien,
+	Deutschland, 
+	Frankreich, 
+	Italien, 
+	Luxemburg, 
+	Niederlande, 
+	Daenemark,
+	Irland,
+	Großbritannien, 
+	Griechenland, 
+	Portugal, 
+	Spanien, 
+	Finnland, 
+	Oesterreich, 
+	Schweden, 
+	Estland, 
+	Lettland, 
+	Litauen, 
+	Malta, 
+	Polen,  
+	Slowakei, 
+	Slowenien, 
+	Tschechien,  
+	Ungarn,  
+	Zypern, 
+	Bulgarien,
+	Rumaenien,
+	Kroatien,
+}
